@@ -1,6 +1,6 @@
 {
   "name": "sinjection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Dependency Injection for JavaScript",
   "author": "Ninh Pham <ninhpham@hotmail.com>",
   "license": "MIT",
@@ -13,10 +13,10 @@
   "files": [
     "LICENSE",
     "README.md",
-    "dist/injection.js",
-    "dist/injection.d.ts",
-    "dist/injection.min.js",
-    "dist/injection.min.js.map"
+    "dist/sinjection.js",
+    "dist/sinjection.d.ts",
+    "dist/sinjection.min.js",
+    "dist/sinjection.min.js.map"
   ],
   "homepage": "https://github.com/nfam/sinjection.js#readme",
   "scripts": {
